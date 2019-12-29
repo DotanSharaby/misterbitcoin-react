@@ -1,0 +1,19 @@
+.clean-list {
+    padding: 0;
+    margin: 15px;
+    list-style-type: none;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+
+    a {
+        color: rgb(8, 90, 117);
+        text-decoration: none;
+        max-width: 180px;
+        align-self: center;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+}
