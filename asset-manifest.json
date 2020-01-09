@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/misterbitcoin-react/static/css/main.90110ba2.chunk.css",
-    "main.js": "/misterbitcoin-react/static/js/main.38a1ab3e.chunk.js",
-    "main.js.map": "/misterbitcoin-react/static/js/main.38a1ab3e.chunk.js.map",
+    "main.css": "/misterbitcoin-react/static/css/main.d6eb6c06.chunk.css",
+    "main.js": "/misterbitcoin-react/static/js/main.59f90240.chunk.js",
+    "main.js.map": "/misterbitcoin-react/static/js/main.59f90240.chunk.js.map",
     "runtime-main.js": "/misterbitcoin-react/static/js/runtime-main.2ee21e12.js",
     "runtime-main.js.map": "/misterbitcoin-react/static/js/runtime-main.2ee21e12.js.map",
-    "static/js/2.361969ee.chunk.js": "/misterbitcoin-react/static/js/2.361969ee.chunk.js",
-    "static/js/2.361969ee.chunk.js.map": "/misterbitcoin-react/static/js/2.361969ee.chunk.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/misterbitcoin-react/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.e3a53973.chunk.js": "/misterbitcoin-react/static/js/2.e3a53973.chunk.js",
+    "static/js/2.e3a53973.chunk.js.map": "/misterbitcoin-react/static/js/2.e3a53973.chunk.js.map",
     "index.html": "/misterbitcoin-react/index.html",
-    "precache-manifest.f893ff63e8dc2e490bebf11069fc2c6c.js": "/misterbitcoin-react/precache-manifest.f893ff63e8dc2e490bebf11069fc2c6c.js",
+    "precache-manifest.dc1da9659a84e619d19a235f01714a89.js": "/misterbitcoin-react/precache-manifest.dc1da9659a84e619d19a235f01714a89.js",
     "service-worker.js": "/misterbitcoin-react/service-worker.js",
-    "static/css/main.90110ba2.chunk.css.map": "/misterbitcoin-react/static/css/main.90110ba2.chunk.css.map",
-    "static/js/2.361969ee.chunk.js.LICENSE": "/misterbitcoin-react/static/js/2.361969ee.chunk.js.LICENSE"
+    "static/css/2.17e5ed98.chunk.css.map": "/misterbitcoin-react/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.d6eb6c06.chunk.css.map": "/misterbitcoin-react/static/css/main.d6eb6c06.chunk.css.map",
+    "static/js/2.e3a53973.chunk.js.LICENSE": "/misterbitcoin-react/static/js/2.e3a53973.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.2ee21e12.js",
-    "static/js/2.361969ee.chunk.js",
-    "static/css/main.90110ba2.chunk.css",
-    "static/js/main.38a1ab3e.chunk.js"
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.e3a53973.chunk.js",
+    "static/css/main.d6eb6c06.chunk.css",
+    "static/js/main.59f90240.chunk.js"
   ]
 }
